@@ -1,0 +1,67 @@
+.example-card {
+  max-width: 400px;
+  margin: 20px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  float: left;
+}
+
+.example-card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.example-card mat-card-header {
+  display: flex;
+  align-items: center;
+  padding: 16px;
+  background-color: #f0f0f0;
+}
+
+.example-card .example-header-image {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background-color: #ccc;
+  margin-right: 16px;
+}
+
+.example-card mat-card-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.example-card mat-card-content p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 16px;
+}
+
+/* .example-card {
+    max-width: 300px;
+    height: 350px;
+    margin: 20px;
+    float:left;
+    
+  }
+  
+  .example-header-image {
+    background-image: url('http://localhost/building.png');
+    background-size: cover;
+  }
+  p {
+    height: 10px;
+  }
+  */
+  .example-card {
+    max-width: 400px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .example-header-image {
+    
+    background-size: cover;
+  }
+  

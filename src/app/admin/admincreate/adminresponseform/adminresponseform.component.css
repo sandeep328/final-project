@@ -1,0 +1,22 @@
+.input {
+    width: 100%;
+  }
+  
+  .mat-label {
+    font-weight: bold;
+  }
+  
+  .input-box {
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .b1 {
+    margin-top: 20px;
+  }
+  
+  .mat-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+  }

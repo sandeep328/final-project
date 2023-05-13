@@ -1,0 +1,27 @@
+.center-box {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .mat-form-field {
+    width: 100%;
+  }
+  
+  .mat-label {
+    font-weight: bold;
+  }
+  
+  .input-box {
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .b1 {
+    margin-top: 20px;
+  }
+  
+  .app-adminresponse {
+    margin-top: 20px;
+    padding: 10px;
+  }

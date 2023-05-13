@@ -1,0 +1,17 @@
+.complaint-box {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .mat-card-content {
+    display: flex;
+  }
+  
+  .mat-icon {
+    margin-right: 10px;
+  }
+  
+  .complaint-text {
+    max-width: 100%;
+  }
